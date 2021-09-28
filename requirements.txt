@@ -4,10 +4,13 @@ image
 panda
 
 jupyter_contrib_nbextensions
-appmode
-rise
-jupyter-tabnine
 scipy
+appmode
+
+
+rise
+
+jupyter-tabnine
 
 ipywidgets
-ipevents
+ipyevents
