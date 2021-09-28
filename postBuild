@@ -8,7 +8,7 @@ jupyter nbextension enable toggle_all_line_number/main
 jupyter nbextension enable runtools/main
 jupyter nbextension enable splitcell/splitcell
 jupyter nbextension enable highlighter/highlighter
-
+jupyter serverextension enable --py --sys-prefix appende
 
 jupyter nbextension enable varInspector/main
 jupyter nbextension install --py jupyter_tabnine
