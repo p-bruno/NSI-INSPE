@@ -8,5 +8,5 @@ appmode
 rise
 jupyter-tabnine
 
-ipwidgets
+ipywidgets
 ipevents
