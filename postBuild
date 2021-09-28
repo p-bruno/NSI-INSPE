@@ -18,3 +18,7 @@ jupyter nbextension enable varInspector/main
 jupyter nbextension install --py jupyter-tabnine
 jupyter nbextension enable --py jupyter_tabnine
 jupyter serverextension enable --py jupyter_tabnine
+
+# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
+python3 trust.py
+/bin/bash trust.sh
