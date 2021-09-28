@@ -11,6 +11,6 @@ jupyter nbextension enable highlighter/highlighter
 jupyter serverextension enable --py --sys-prefix appende
 
 jupyter nbextension enable varInspector/main
-jupyter nbextension install --py jupyter_tabnine
+jupyter nbextension install --py jupyter-tabnine
 jupyter nbextension enable --py jupyter_tabnine
 jupyter serverextension enable --py jupyter_tabnine
